@@ -13,3 +13,4 @@
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=KxPlaug&theme=github"/>
 </p>
+![dick]("cat.jpg")
