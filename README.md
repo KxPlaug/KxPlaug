@@ -13,4 +13,6 @@
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=KxPlaug&theme=github"/>
 </p>
-![](cat.jpg)
+
+# And this is my cat called Dick!
+![](image/cat.jpg)
