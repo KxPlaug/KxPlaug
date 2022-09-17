@@ -1,8 +1,8 @@
 # Hi 🎉 Welcome to KxPlaug's Github Homepage!
 <p>
-<img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
-<img src="https://img.shields.io/static/v1?label=Program&message=Rust&color=blue"/>
-<img src="https://img.shields.io/static/v1?label=Program&message=TypeScript&color=blue"/>
+<img src="https://img.shields.io/static/v1?label=Program&message=Python&color=purple"/>
+<img src="https://img.shields.io/static/v1?label=Program&message=Rust&color=red"/>
+<img src="https://img.shields.io/static/v1?label=Program&message=TypeScript&color=green"/>
 <img src="https://img.shields.io/static/v1?label=Program&message=Go&color=blue"/>
 </p>
 <p align="center">
