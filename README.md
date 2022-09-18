@@ -14,5 +14,5 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=KxPlaug&theme=github"/>
 </p>
 
-# And this is my cat called Dick! 🎉
+# And this is my cat called Dick ! 🎉
 ![](image/cat.jpg)
