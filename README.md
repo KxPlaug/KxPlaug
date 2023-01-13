@@ -1,5 +1,8 @@
 # Hi 🎉 Welcome to KxPlaug's Github Homepage!
 
+- Software Engineering
+- Python/Rust backent
+- Opensource
 
 ![skills](https://skillicons.dev/icons?i=rust,python,java,docker,git,github,html,js,linux,nodejs,regex,stackoverflow,ts,visualstudio,vscode,go)
 
